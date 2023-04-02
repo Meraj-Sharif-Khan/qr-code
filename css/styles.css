@@ -1,0 +1,64 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #d5e1ef;
+  font-family: "Outfit", sans-serif;
+}
+
+/* card */
+.card--container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 32rem;
+  height: 49.7rem;
+  background: #fff;
+  text-align: center;
+  border-radius: 20px;
+  padding: 1.5rem;
+}
+.shadow {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
+.qr-code__image {
+  height: 290px;
+  width: 290px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.qr__heading {
+  font-size: 2.2rem;
+  color: #202e48;
+  font-weight: 700;
+  padding: 1.5rem;
+}
+
+.qr__description {
+  font-size: 1.5rem;
+  color: #898c95;
+  font-weight: 400;
+  padding: 0 1.5rem;
+}
+/* attributtion */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  transform: translateY(25px);
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
