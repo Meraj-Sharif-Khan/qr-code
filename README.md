@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://meraj-sharif-khan.github.io/qr-code/)
+- Solution URL: [solution URL here](https://your-solution-url.com)
+- Live Site URL: [live site URL here](https://meraj-sharif-khan.github.io/qr-code/)
 
 ### Built with
 
